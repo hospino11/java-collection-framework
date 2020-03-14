@@ -20,3 +20,6 @@ Java Collection Framework training project.
     - initialized with no elements
     - adding elements
     - removing elements
+- Sort
+    - Collections.sort
+    - List.sort
