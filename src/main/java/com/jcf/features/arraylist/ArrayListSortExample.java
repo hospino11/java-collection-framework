@@ -24,5 +24,14 @@ public class ArrayListSortExample {
         log.log(Level.INFO, "Hours before sorting: {0}", hours);
         Collections.sort(hours);
         log.log(Level.INFO, "Hours after sorting: {0}", hours);
+        Collections.reverse(hours);
+        log.log(Level.INFO, "Hours after sorting in reverse order (Collections.reverse): {0}", hours);
+        hours.sort(Collections.reverseOrder());
+        log.log(Level.INFO, "Hours after sorting in reverse order (Collections.reverseOrder()): {0}", hours);
+
+        List<String> names = Arrays.asList("AA", "ZZ", "CC", "FF");
+        log.log(Level.INFO, "Names before sorting: {0}", names);
+        names.sort(Collections.reverseOrder());
+        log.log(Level.INFO, "Names after sorting (Collections.reverseOrder()): {0}", names);
     }
 }
