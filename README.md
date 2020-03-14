@@ -1,2 +1,6 @@
 # java-collection-framework
-Java Collection Framework
+
+## Overview
+Java Collection Framework training project.
+
+## Topics covered
