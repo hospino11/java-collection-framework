@@ -16,3 +16,7 @@ Java Collection Framework training project.
     - while loop
     - iterator
     - enumeration
+- Size
+    - initialized with no elements
+    - adding elements
+    - removing elements
