@@ -24,4 +24,6 @@ Java Collection Framework training project.
     - Collections.sort
     - List.sort
     - Collections.reverse
-    . Collections.reverseOrder
+    - Collections.reverseOrder
+    - Implementing Comparable
+    - Creating Comparator
