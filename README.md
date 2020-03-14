@@ -27,3 +27,5 @@ Java Collection Framework training project.
     - Collections.reverseOrder
     - Implementing Comparable
     - Creating Comparator
+- Add
+    - add
